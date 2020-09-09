@@ -17,7 +17,7 @@
 
 ## About Sumé LMS
 
-> Note: This repository contains the **user microservice** of the Sumé LMS. If you are looking for more information about the application, we strongly recommend you to [check the documentation](https://www.sumelms.com/docs).
+> Note: This repository contains the **profile microservice** of the Sumé LMS. If you are looking for more information about the application, we strongly recommend you to [check the documentation](https://www.sumelms.com/docs).
 
 Sumé LMS is a modern and open-source learning management system that uses modern technologies to deliver performance and scalability to your learning environment.
 
