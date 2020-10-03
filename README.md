@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://travis-ci.org/sumelms/microservice-profile">
-    <img alt="Travis (.org)" src="https://travis-ci.org/sumelms/microservice-profile.svg?branch=main">
+  <a href="https://travis-ci.org/sumelms/<microservice-repository>">
+    <img alt="Travis (.org)" src="https://travis-ci.org/sumelms/<microservice-repository>.svg?branch=main">
   </a>  
-  <a href="https://codecov.io/gh/sumelms/microservice-profile">
-    <img src="https://codecov.io/gh/sumelms/microservice-profile/branch/main/graph/badge.svg?token=8E92BS3SR9" />
+  <a href="https://codecov.io/gh/sumelms/<microservice-repository>">
+    <img src="https://codecov.io/gh/sumelms/<microservice-repository>/branch/main/graph/badge.svg?token=8E92BS3SR9" />
   </a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/sumelms/microservice-profile">
+  <img alt="GitHub" src="https://img.shields.io/github/license/sumelms/<microservice-repository>">
   <a href="https://discord.gg/Yh9q9cd">
     <img alt="Discord" src="https://img.shields.io/discord/726500188021063682">
   </a>
@@ -17,7 +17,7 @@
 
 ## About Sumé LMS
 
-> Note: This repository contains the **profile microservice** of the Sumé LMS. If you are looking for more information about the application, we strongly recommend you to [check the documentation](https://www.sumelms.com/docs).
+> Note: This repository contains the **<REPLACE ME>** of the Sumé LMS. If you are looking for more information about the application, we strongly recommend you to [check the documentation](https://www.sumelms.com/docs).
 
 Sumé LMS is a modern and open-source learning management system that uses modern technologies to deliver performance and scalability to your learning environment.
 
@@ -43,8 +43,7 @@ Sumé LMS is a modern and open-source learning management system that uses moder
 
 ## Prerequisites
 
-- Go >= 1.14.6
-- PostgreSQL >= 9.5
+@TODO
 
 ## Setup
 
