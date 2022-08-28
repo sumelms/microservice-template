@@ -30,3 +30,9 @@
 │   └── utils.go
 └── vendor # Just the vendoring files. Do not touch it.
 ```
+
+## Service Layout
+
+This represents the `internal/<service_name>` structure.
+
+![Service layout](./service_layout.png)
